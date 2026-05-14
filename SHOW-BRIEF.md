@@ -23,12 +23,14 @@ Society has been built a certain way over time — and it has become a monolith.
 
 By creating **society pilots on the edge of the monolith**, we get to experiment and iterate quickly on social structures that are good for: **you**, **the collective**, and **the planet**.
 
-**Every episode does two things:**
+**Every episode does three things:**
 1. **Name the challenges** — the real barriers to building and growing regenerative communities and neighborhoods
 2. **Explore the solutions** — how technology, specifically AI tools, can support, accelerate, or enable what communities are building
+3. **Surface AI opportunities** — identify specific pain points where well-designed AI tools could meaningfully help — treating every challenge conversation as a potential product requirement
 
 This isn't tech for the sake of tech. It's tech in service of community.
 
+**The AI opportunity lens:** For each challenge discussed, we ask: *What would an AI-powered tool need to do, know, and understand to help with this? What can software handle — and what requires human presence, judgment, or care that no tool can replace?* We're not just exploring community — we're using it as a design space to build tools that matter.
 
 That's what this show is about. Conversations with people running those experiments — building neighborhoods, governance models, economies, and cultures on the edge. Learning out loud. Showing the rest of the world what's possible when you stop trying to fit in and start building differently.
 
@@ -54,8 +56,20 @@ Each episode follows a loose structure:
 
 1. **Opening (5 min)** — How the guest got into this work
 2. **Deep Dive (30–50 min)** — One main topic per episode
-3. **Rapid Fire (10 min)** — 5 quick questions
-4. **Close (5 min)** — What they're building next, where to find them
+3. **Devil's Advocate (10 min)** — A rotating role whose job is to push back, name assumptions, and stress-test the guest's positions
+4. **Rapid Fire (10 min)** — 5 quick questions
+5. **Close (5 min)** — What they're building next, where to find them
+
+### The Devil's Advocate Role
+
+This isn't an antagonist — it's a thinking partner. The DA's job:
+- Surface the thing the guest is avoiding or assuming away
+- Challenge the "obvious" answer when it's too easy
+- Ask: "What could go wrong with this approach?"
+- Hold space for the critique without killing the conversation
+- Reference where similar approaches have failed elsewhere
+
+The DA rotates each episode — could be a co-host, a recurring guest, or someone pulled from the fishbowl audience.
 
 ---
 
@@ -71,6 +85,13 @@ Each episode follows a loose structure:
 - What role does AI matching play (or not play) in this?
 - Quick: best place to start looking?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ### Episode 2: The Land Question
 *Regenerative communities need land. Who owns it, who cares for it, and how do you get access?*
 
@@ -80,6 +101,13 @@ Each episode follows a loose structure:
 - The economics no one talks about honestly
 - How do you start if you don't have capital?
 - Quick: most surprising thing about your land situation?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
 
 ### Episode 3: Governance That Doesn't Suck
 *Most communities have a governance problem. Here's how to actually make decisions together.*
@@ -91,6 +119,13 @@ Each episode follows a loose structure:
 - The one rule that changed everything for your community
 - Quick: governance tool you actually use every day?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ### Episode 4: Money That Makes Sense
 *Community economics without losing your soul — sustainable revenue, fair contributions, transparent finances.*
 
@@ -100,6 +135,13 @@ Each episode follows a loose structure:
 - How do you handle someone who can't pay?
 - Revenue diversification — what actually works vs. what sounds good
 - Quick: most creative community revenue stream you've heard of?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
 
 ### Episode 5: The Technology Question
 *Does your community need an app? A platform? Or just a WhatsApp group and a whiteboard?*
@@ -111,6 +153,13 @@ Each episode follows a loose structure:
 - Privacy and data — what should communities never share?
 - Quick: one piece of tech your community couldn't live without?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ### Episode 6: Conflict as Fuel
 *Conflict is inevitable. The communities that survive it aren't the ones that avoid it — they're the ones that have systems for it.*
 
@@ -120,6 +169,13 @@ Each episode follows a loose structure:
 - When is leaving the right answer?
 - Building psychological safety in a new community
 - Quick: one book or practice that changed how you handle conflict?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
 
 ### Episode 7: Growing Without Losing Your Soul
 *Communities that scale often lose what made them special. How do you grow without losing the magic?*
@@ -131,6 +187,13 @@ Each episode follows a loose structure:
 - When is "staying small" actually the smarter choice?
 - Quick: ideal community size for your context and why?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ### Episode 8: The Next Generation
 *What does it take to raise kids in community? And what do young people actually want from neighborhood life?*
 
@@ -140,6 +203,13 @@ Each episode follows a loose structure:
 - The intergenerational question — how do you design for both elders and youth?
 - What do you wish your community had when you were growing up?
 - Quick: favorite memory of community as a kid?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
 
 ### Episode 9: Rituals and Culture
 *The invisible glue — how communities create belonging through ceremony, rhythm, and shared stories.*
@@ -151,6 +221,13 @@ Each episode follows a loose structure:
 - What happens when culture becomes forced?
 - Quick: one ritual your community does that you'd never give up?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ### Episode 10: The Network Effect
 *One community is a start. What happens when regenerative neighborhoods start talking to each other?*
 
@@ -160,6 +237,44 @@ Each episode follows a loose structure:
 - The challenge of "tribalism" between communities with shared missions
 - What could a global network of regenerative neighborhoods actually accomplish?
 - Quick: one community you'd love to visit and why?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
+### Episode 11: The Body Keeps the Score
+*Emotional healing and trauma work — the key to emotional intelligence, understanding why you feel triggered, and handling it with grace in community life.*
+
+*Best as: M, S — someone who has done the inner work + a trauma-informed facilitator or coach*
+
+**Suggested Guest: A somatic therapist, IFS practitioner, or community member who has navigated healing in community**
+
+### Core Questions
+
+1. What happens when unhealed trauma shows up in community — and it will — how do you recognize it?
+2. The difference between "being triggered" and "having a reaction" — how do you teach this distinction?
+3. Tell me about a time when someone in community did the inner work and it changed the whole dynamic. What shifted?
+4. How do you create a culture where people can actually be honest about their wounds without being seen as broken?
+5. The "golden rule" of community: don't fix, don't rescue, don't enable. What does that look like in practice?
+6. Self-regulation as infrastructure — why somatic practices, boundary work, and nervous system awareness are as important as governance documents
+7. What does trauma-informed community design actually look like from the inside?
+
+### Rapid Fire
+- One practice that changed your relationship to being triggered?
+- Most underrated healing modality for community builders?
+- What do you wish community founders understood about trauma?
+- Book or resource that changed how you think about this?
+- What's the one thing communities get wrong about "holding space"?
+
+### AI Opportunity Scan
+- Mood tracking / emotional check-in tools — what data to collect, what to never touch
+- Conflict early-warning: what signals actually predict escalation vs. what just looks like noise
+- Anonymous support tools — where anonymity helps vs. where it enables avoidance
+- Boundary and consent management — tools vs. relationships
+- What a trauma-informed AI tool would need to understand vs. what it should never attempt
 
 ---
 
@@ -185,13 +300,13 @@ We're looking for people with real experience running society pilots on the edge
 | Murat | The Ark — Costa Rica | Community Founder |
 | Gini | Loveland — Community Root | Community Founder |
 | Sam | TDF Oasa — Closer Community | Community Founder |
+| NEOS Life | Portugal (couple) | Community Founder |
+| Florian | Geodomes | Regen Designer & AI Engineer |
+| Frances | Regenesis | Founder |
+| Jean Luc | Regen Community Entrepreneur | Founder |
 
 *Add more as we book them.*
 
 ---
 
 *Building neighborhood by neighborhood — together.*
-| NEOS Life | Portugal (couple) | Community Founder |
-| Florian | Geodomes | Regen Designer & AI Engineer |
-| Frances | Regenesis | Founder |
-| Jean Luc | Regen Community Entrepreneur | Founder |

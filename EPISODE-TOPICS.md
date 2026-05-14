@@ -1,6 +1,6 @@
 # Edge Of Society — Episode Topics & Questions
 
-> Every episode names the challenges in community and neighborhood growth, then explores how technology — specifically AI tools — can help.
+> Every episode names the challenges in community and neighborhood growth, then explores how technology — specifically AI tools — can help. We treat every challenge conversation as a product requirement session for AI-powered tools that could meaningfully help communities thrive.
 
 ## Challenge + AI Lens
 
@@ -8,22 +8,25 @@ Each episode is framed around one challenge in community building. We close ever
 
 The AI question we return to: *What in this challenge could a well-designed AI tool actually solve — and what requires human presence no matter what?*
 
+**The AI opportunity lens:** For each challenge discussed, we ask: *What would an AI-powered tool need to do, know, and understand to help with this? What can software handle — and what requires human presence, judgment, or care that no tool can replace?* We're not just exploring community — we're using it as a design space to build tools that matter.
+
 ---
 
 ## Quick Reference
 
-| # | Episode Title | Duration | Primary Guest Type |
-|---|-------------|----------|-------------------|
-| 1 | Finding Your People | 60 min | Community Founder |
-| 2 | The Land Question | 75 min | Resource Holder |
-| 3 | Governance That Doesn't Suck | 60 min | Service Provider |
-| 4 | Money That Makes Sense | 75 min | Resource Holder |
-| 5 | The Technology Question | 60 min | Service Provider |
-| 6 | Conflict as Fuel | 60 min | Community Member |
-| 7 | Growing Without Losing Your Soul | 60 min | Community Founder |
-| 8 | The Next Generation | 75 min | Community Member |
-| 9 | Rituals and Culture | 60 min | Community Member |
-| 10 | The Network Effect | 60 min | Resource Holder / Founder |
+| # | Episode Title | Duration | Primary Guest Type | AI Opportunity |
+|---|-------------|----------|-------------------|----------------|
+| 1 | Finding Your People | 60 min | Community Founder | ✓ |
+| 2 | The Land Question | 75 min | Resource Holder | ✓ |
+| 3 | Governance That Doesn't Suck | 60 min | Service Provider | ✓ |
+| 4 | Money That Makes Sense | 75 min | Resource Holder | ✓ |
+| 5 | The Technology Question | 60 min | Service Provider | ✓ |
+| 6 | Conflict as Fuel | 60 min | Community Member | ✓ |
+| 7 | Growing Without Losing Your Soul | 60 min | Community Founder | ✓ |
+| 8 | The Next Generation | 75 min | Community Member | ✓ |
+| 9 | Rituals and Culture | 60 min | Community Member | ✓ |
+| 10 | The Network Effect | 60 min | Resource Holder / Founder | ✓ |
+| 11 | The Body Keeps the Score | 75 min | Community Member / Therapist | ✓ |
 
 **Guest Types:**
 - **F** = Community Founder
@@ -31,6 +34,29 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - **S** = Service Provider
 - **R** = Resource Holder (investor, land, capital)
 - **C** = Curious Person (anyone genuinely asking questions)
+
+---
+
+## Episode Format
+
+Each episode follows a loose structure:
+
+1. **Opening (5 min)** — How the guest got into this work
+2. **Deep Dive (30–50 min)** — One main topic per episode
+3. **Devil's Advocate (10 min)** — A rotating role whose job is to push back, name assumptions, and stress-test the guest's positions
+4. **Rapid Fire (10 min)** — 5 quick questions
+5. **Close (5 min)** — What they're building next, where to find them
+
+### The Devil's Advocate Role
+
+This isn't an antagonist — it's a thinking partner. The DA's job:
+- Surface the thing the guest is avoiding or assuming away
+- Challenge the "obvious" answer when it's too easy
+- Ask: "What could go wrong with this approach?"
+- Hold space for the critique without killing the conversation
+- Reference where similar approaches have failed elsewhere
+
+The DA rotates each episode — could be a co-host, a recurring guest, or someone pulled from the fishbowl audience.
 
 ---
 
@@ -57,6 +83,13 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - Daily practice that keeps you connected to your community when life is busy?
 - What do you still not have figured out?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ---
 
 ## Episode 2: The Land Question
@@ -79,6 +112,13 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - Best resource for someone just starting the land search?
 - Urban or rural — and has that changed?
 - If your land arrangement had a flaw, what would it be?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
 
 ---
 
@@ -103,6 +143,13 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - One thing governance can't solve — no matter how good your system is?
 - What keeps you up at night about your community's governance?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ---
 
 ## Episode 4: Money That Makes Sense
@@ -125,6 +172,13 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - Best book or resource on community finances?
 - Financial mistake your community made that taught you the most?
 - What would you never fundraise for, no matter how good the cause?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
 
 ---
 
@@ -149,6 +203,13 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - What technology do you think most communities are sleeping on?
 - If you had to pick one: coordination tool, decision tool, or communication tool — and why?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ---
 
 ## Episode 6: Conflict as Fuel
@@ -171,6 +232,13 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - What is conflict actually good for in community?
 - The question you ask yourself before engaging in a difficult conversation?
 - What do you wish more communities understood about conflict?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
 
 ---
 
@@ -195,6 +263,13 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - What does "culture" actually mean in your community — what are the unwritten rules?
 - If your community had to choose between doubling size or doubling depth of connection — which would you choose?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ---
 
 ## Episode 8: The Next Generation
@@ -217,6 +292,13 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - Most important thing to get right if you're designing for families?
 - What do teenagers in community need most?
 - Education model you find most interesting right now?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
 
 ---
 
@@ -241,6 +323,13 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - What does your community do for the winter solstice / summer solstice / equinox?
 - Who in your community is the keeper of culture — is that a role or an accident?
 
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
 ---
 
 ## Episode 10: The Network Effect
@@ -263,3 +352,45 @@ The AI question we return to: *What in this challenge could a well-designed AI t
 - Dream collaboration between two communities — what would you want them to do together?
 - What is the biggest barrier to inter-community cooperation right now?
 - Where do you see regenerative communities in 20 years — and where do you want them to be?
+
+### AI Opportunity Scan
+- What specific problem in this challenge could an AI tool actually solve?
+- Where would a tool need deep context about this community's specific situation to be useful vs. generic?
+- What data would the tool need — and what data should it never touch?
+- Where does human presence, judgment, or care become non-negotiable — no matter how good the AI gets?
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
+
+---
+
+## Episode 11: The Body Keeps the Score
+
+*Emotional healing and trauma work — the key to emotional intelligence, understanding why you feel triggered, and handling it with grace in community life.*
+
+*Best as: M, S — someone who has done the inner work + a trauma-informed facilitator or coach*
+
+**Suggested Guest: A somatic therapist, IFS practitioner, or community member who has navigated healing in community**
+
+### Core Questions
+
+1. What happens when unhealed trauma shows up in community — and it will — how do you recognize it?
+2. The difference between "being triggered" and "having a reaction" — how do you teach this distinction?
+3. Tell me about a time when someone in community did the inner work and it changed the whole dynamic. What shifted?
+4. How do you create a culture where people can actually be honest about their wounds without being seen as broken?
+5. The "golden rule" of community: don't fix, don't rescue, don't enable. What does that look like in practice?
+6. Self-regulation as infrastructure — why somatic practices, boundary work, and nervous system awareness are as important as governance documents
+7. What does trauma-informed community design actually look like from the inside?
+
+### Rapid Fire
+- One practice that changed your relationship to being triggered?
+- Most underrated healing modality for community builders?
+- What do you wish community founders understood about trauma?
+- Book or resource that changed how you think about this?
+- What's the one thing communities get wrong about "holding space"?
+
+### AI Opportunity Scan
+- Mood tracking / emotional check-in tools — what data to collect, what to never touch
+- Conflict early-warning: what signals actually predict escalation vs. what just looks like noise
+- Anonymous support tools — where anonymity helps vs. where it enables avoidance
+- Boundary and consent management — tools vs. relationships
+- What a trauma-informed AI tool would need to understand vs. what it should never attempt
+- If you had a small team and 6 months to build one tool for this challenge — what would it do?
